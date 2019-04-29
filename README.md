@@ -31,5 +31,10 @@ task2. Надёжность статически неопределимой ко
 task3.pdf
 
 
+## Файлы
+python-example - примеры программ на языке программирования Python
+
+
+## Ссылки
 Таблицы распределений: http://statsoft.ru/home/textbook/modules/sttable.html
 Распределения онлайн: https://surfstat.anu.edu.au/surfstat-home/tables/t.php
