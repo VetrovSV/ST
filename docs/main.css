@@ -27,6 +27,11 @@ h1{
     margin-bottom: 1em;
 }
 
+
+h2{
+    margin-top: 1.7em;
+}
+
 li{
     margin-bottom: 0.4em;
 }
@@ -40,7 +45,7 @@ li{
 @media screen and (max-width: 1000px){
     
     body{
-        font-size: 20px;
+        font-size: 36px;
     }
     
     h1{
