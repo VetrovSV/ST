@@ -5,12 +5,15 @@
 - Статистическая гипотеза. Сравнение средних.
 - Выполнение работы по статистической обработке данных
    - https://github.com/VetrovSV/AppMathST/tree/master/task1
-
+- Корреляция.
+   - Работа по корреляционному анализу: https://github.com/VetrovSV/AppMathST/tree/master/task2
+- Слайды https://raw.githubusercontent.com/VetrovSV/ST/master/PSM_statistics.pdf
 
 # Занятие 6
 март 22
 - Повторение
 - Числовые характеристики выборки и генеральной совокупности. Интервальные оценки. Доверительный интервал для математического ожидания. Статистическая гипотеза. Сравнение средних.
+- Слайды https://raw.githubusercontent.com/VetrovSV/ST/master/PSM_statistics.pdf
 
 
 <br>
