@@ -8,6 +8,8 @@
 
 ## Дополнительно
 - https://www.youtube.com/watch?v=JScmzAVxoRA
+- http://kvant.mccme.ru/1988/08/raspredelenie_puassona.htm
+- https://habr.com/ru/post/318150/
 
 # Занятие 10
 апрель 19
