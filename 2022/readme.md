@@ -6,11 +6,19 @@
 - https://habr.com/ru/post/163621/
 - Ряд Тейлора?
 
+## Дополнительно
+- https://www.youtube.com/watch?v=JScmzAVxoRA
+
 # Занятие 10
 апрель 19
 - Марка и класс бетона.
-- Надёжность. Долговечность. Характеристика безопасности. Индекс надёжности.
+- Надёжность. Долговечность. Характеристика безопасности. Индекс надёжности. Пример: начальная надёжность стержня.
 - https://raw.githubusercontent.com/VetrovSV/ST/master/PSM_reliability.pdf
+
+### Домашнее задание
+Начальная надёжность стержня: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task3/Task3.pdf
+
+
 
 # Занятие 9
 апрель 12
