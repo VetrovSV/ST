@@ -2,7 +2,8 @@
 май 17
 - Надёжность системы
 - Закон Гумбеля: § 2.2.8, https://vgasu.ru/attachments/oi_pshenichkina-03.pdf
-   - § 3.3. Применение закона Гумбеля для исследования снеговых нагрузок
+   - § 3.3. Применение закона Гумбеля для исследования снеговых нагрузок \
+   *По статистическим данным определить параметры закона Гумбеля и максимальную снеговую нагрузку для периода повторяемости в 25 лет*
 - [Метод Монте-Карло](https://raw.githubusercontent.com/VetrovSV/ST/master/PSM_reliability.pdf#Navigation49)
    - Шаблон задания: https://colab.research.google.com/drive/1PDUy6w3FZTz2J230z2VvLa7N-XKtUDCL?usp=sharing
 - Задача: начальная надёжность прогона: http://mechanicsrgsu.narod.ru/sur/mois2.pdf
