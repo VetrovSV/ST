@@ -76,6 +76,7 @@ http://mechanicsrgsu.narod.ru/sur/mois1.pdf -- Начальная надёжно
 - Повторение
 - Равномерное (uniform) и нормальное (гаусово) распределения
    - Примеры задач с использованием распределений; определение F(x), P(X>x), поиск х по известному значению F(x); интервал с наиболее популярными значениями СВ по заданной вероятности. Решение в программе probability distributions
+- Интерактивные примеры распределений: https://seeing-theory.brown.edu/probability-distributions/index.html#section2
 - Математическая статистика. Признаки их виды. Выборка и ген. совокупность. Репрезентативность. Гистограмма. Интервальный ряд.
    
 <br>
@@ -115,6 +116,7 @@ https://postnauka.ru/chapters/156261 - Можно ли доверять мудр
 - Условная вероятность:
    - https://seeing-theory.brown.edu/compound-probability/index.html#section2
 - полная вероятность; теорема Байеса
+   - Визуализация: https://seeing-theory.brown.edu/bayesian-inference/index.html#section1
 - Слайды: https://*raw.githubusercontent.com/VetrovSV/ST/master/PSM_events.pdf
 - см.  материалы в miro, ссылка в discord
 
