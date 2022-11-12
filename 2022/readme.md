@@ -77,7 +77,7 @@ http://mechanicsrgsu.narod.ru/sur/mois1.pdf -- Начальная надёжно
 - Равномерное (uniform) и нормальное (гаусово) распределения
    - Примеры задач с использованием распределений; определение F(x), P(X>x), поиск х по известному значению F(x); интервал с наиболее популярными значениями СВ по заданной вероятности. Решение в программе probability distributions
 - Математическая статистика. Признаки их виды. Выборка и ген. совокупность. Репрезентативность. Гистограмма. Интервальный ряд.
-
+   
 <br>
 
 # Занятие 4
@@ -112,6 +112,8 @@ https://postnauka.ru/chapters/156261 - Можно ли доверять мудр
 февраль 15
 ## Лекция
 - схема Бернулли
+- Условная вероятность:
+   - https://seeing-theory.brown.edu/compound-probability/index.html#section2
 - полная вероятность; теорема Байеса
 - Слайды: https://*raw.githubusercontent.com/VetrovSV/ST/master/PSM_events.pdf
 - см.  материалы в miro, ссылка в discord
@@ -137,6 +139,7 @@ https://postnauka.ru/chapters/156261 - Можно ли доверять мудр
 - Теория вероятностей.
 - Случайное событие. 
 - Комбинаторика.
+   - Интерактивный пример: https://seeing-theory.brown.edu/compound-probability/index.html#section2
 - Закон сложения и умножения вероятностей
 - https://raw.githubusercontent.com/VetrovSV/ST/master/PSM_events.pdf
 
